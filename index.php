@@ -21,7 +21,7 @@ if($_POST){
         <meta charset="utf-8">
 		<!-- Always force latest IE rendering engine or request Chrome Frame -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Behala High School test3</title>		
+        <title>Behala High School test4</title>		
 		<!-- Meta Description -->
         <meta name="description" content="Behala High School">
 		<link rel="shortcut icon" href="img/favicon.png" />
