@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/x42netrblbze/public_html/bhs_old/
+    - export DEPLOYPATH=/home/x42netrblbze/public_html/bhs_56/
     - /bin/cp * $DEPLOYPATH
